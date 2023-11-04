@@ -8,11 +8,11 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "production"
+      "size": "standard-2x"
     },
     "worker": {
       "quantity": 1,
-      "size": "production"
+      "size": "standard-2x"
     }
   },
   "scripts": {
